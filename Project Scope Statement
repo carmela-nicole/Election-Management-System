@@ -1,0 +1,63 @@
+Eastwoods Professional College of Science and  Technology
+
+
+
+
+Scope Statement for
+Election Management System
+
+
+
+
+
+
+
+
+Prepared by:
+        	Project Manager: Heron, Kyla Cathleen
+Project Developer: Gueco, Justine Ivan
+                                Cruz, Paul Reishen
+Consultant: Bautista, Carmela Nicole
+Coordinator: Abad, Josh Vincent
+
+Version:	0.1
+Date:	April 12, 2024
+ 
+Project Background
+An Election Management System (EMS) is a comprehensive software solution designed to facilitate the management of all aspects of an election process. It encompasses various functionalities and tools to streamline tasks related to voter registration, polling place management, candidate nomination, election monitoring and observation, result tabulation and reporting and post-election activities.
+The need for an Election Management System (EMS) arises from the increasingly complex and demanding nature of modern electoral processes. Several factors justify why this project should be undertaken:
+Technological Advancement: With advancements in technology, traditional paper-based methods of managing elections have become outdated and inefficient. Transitioning to a comprehensive software solution like an EMS allows for greater automation, accuracy, and transparency in the electoral process.
+Enhanced Efficiency: The EMS streamlines various election-related tasks, reducing manual efforts and administrative burdens on election officials. By automating processes such as voter registration, candidate nomination, and result tabulation, the EMS significantly improves the efficiency of electoral operations.
+Transparency and Accountability: In recent years, there has been an increased emphasis on transparency and accountability in electoral processes. The EMS addresses these concerns by providing features for election monitoring, observation, and auditing, ensuring that the entire process is conducted in a transparent and accountable manner.
+Inclusivity and Accessibility: Traditional electoral systems may present barriers to participation for certain groups, such as individuals with disabilities or those living in remote areas. The EMS can be designed to accommodate diverse needs by offering online voter registration, accessible voting options, and multilingual support, thereby promoting inclusivity and accessibility in the electoral process.
+Security and Integrity: Ensuring the security and integrity of elections is paramount to maintaining public trust and confidence in the democratic process. The EMS incorporates robust security measures to safeguard against potential threats such as hacking, tampering, or fraud, thereby enhancing the credibility of election results.
+Unlike standalone systems that address specific aspects of the electoral process, the EMS encompasses a wide range of functionalities and tools, providing a comprehensive solution for election administration. This integrated approach not only enhances efficiency and effectiveness but also promotes constructive collaboration and coherence across distinct stages of the electoral cycle. Additionally, the flexibility and scalability of the EMS make it adaptable to diverse electoral contexts, ensuring its relevance and applicability across different authorities and electoral systems. Overall, the EMS represents a transformative leap forward in modernizing and optimizing electoral processes, strengthening democratic governance and citizen engagement.
+
+
+Purpose of the Project
+The purpose of the Election Management System (EMS) is to modernize and streamline the entire election process, from voter registration to post-election activities. By consolidating various functionalities and tools into one comprehensive software solution, the EMS aims to achieve several key objectives:
+Efficiency: The EMS streamlines administrative tasks such as voter registration, candidate nomination, and polling place management, reducing manual efforts and potential errors. This efficiency translates into cost savings and faster processing times.
+Transparency: Through features like election monitoring and observation, the EMS enhances transparency in the electoral process. It allows stakeholders, including observers and the public, to monitor the process in real-time, thereby fostering trust and confidence in the integrity of the elections.
+Accuracy: By automating result tabulation and reporting, the EMS minimizes the risk of errors and discrepancies in vote counting. This ensures that election results are accurate and credible, contributing to the legitimacy of the electoral outcomes.
+Accessibility: The EMS facilitates broader access to the electoral process by enabling online voter registration and providing accessible voting options for individuals with disabilities. This inclusivity promotes democratic participation and representation.
+Accountability: Through its comprehensive tracking and auditing capabilities, the EMS enhances accountability in the election process. It allows election officials to trace and verify every step of the electoral cycle, thereby reducing the likelihood of fraud or malpractice.
+
+
+
+Project Scope
+Key Features
+1.	Voter Registration: Managing the registration of eligible voters, updating voter rolls, and ensuring only eligible individuals can vote. 
+2.	Polling Place Management: Securing and setting up polling places, training staff, and ensuring that voting equipment is functioning properly.
+3.	Candidate Nomination: Managing the process by which candidates are nominated to run for office, including verifying their eligibility and ensuring compliance with relevant laws.
+4.	Election Monitoring and Observation: Monitoring the election process to ensure transparency, fairness, and compliance with electoral laws and regulations.
+5.	Results Tabulation and Reporting: Collecting and tabulating election results accurately and timely and reporting the outcome to the public.
+
+
+Out of Scope
+Here are some features that is considered that out scope in our Election Management System
+1.	Ballot Design and Printing: Designing and printing ballots that accurately reflect the candidates and issues to be voted on.
+2.	Election Security: Implementing measures to safeguard the electoral process from fraud, interfaces, and other security threats.
+3.	Voters Education and Outreach: Conducting voter educations campaigns to inform the public about the election process, voter registration, voting procedures and relevant deadlines.
+4.	Result Tabulation and Reporting: Collecting and tabulating election results accurately and timely and reporting the outcomes to the public.
+5.	Legal Compliance: Ensuring that all aspects of the election process adhere to applicable laws and regulations governing elections.
+
